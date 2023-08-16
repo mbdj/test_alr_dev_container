@@ -1,0 +1,9 @@
+name = "test_alr"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["mehdi"]
+maintainers = ["mehdi <mbdj@free.fr>"]
+maintainers-logins = ["github-mbdj"]
+
+executables = ["test_alr"]
